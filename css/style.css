@@ -247,7 +247,6 @@
     justify-content: center;
     gap: 24px;
     list-style-type: none;
-
 }
 
 .third-section-list-item-icons-item {
@@ -297,6 +296,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
 }
 
 /* Forth Section */
