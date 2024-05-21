@@ -398,6 +398,9 @@
 .footer-div {
     display: flex;
     align-items: baseline;
+}
+
+.footer-inner-div {
     margin-right: 120px;
 }
 
