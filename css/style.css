@@ -333,7 +333,7 @@
 
 .forth-section-list-item-div-paragraph {
     position: absolute;
-    top: 40px;
+    top: auto;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -351,6 +351,7 @@
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+
 
 .forth-section-headline {
     margin-bottom: 72px;
