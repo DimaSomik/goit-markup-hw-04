@@ -330,13 +330,9 @@
     overflow: hidden;
 }
 
-.forth-section-list-item-div:hover {
-    overflow: visible;
-}
-
 .forth-section-list-item-div-paragraph {
     position: absolute;
-    top: 0;
+    top: 0px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
